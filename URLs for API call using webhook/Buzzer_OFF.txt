@@ -1,0 +1,2 @@
+Buzzer turn off
+https://cloud.boltiot.com/remote/<your_api_key>/digitalWrite?pin=1&state=LOW&deviceName=<bolt_device_id>

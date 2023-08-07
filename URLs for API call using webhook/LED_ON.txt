@@ -1,0 +1,2 @@
+LED turn on
+https://cloud.boltiot.com/remote/<your_api_key>/digitalWrite?pin=0&state=HIGH&deviceName=<bolt_device_id>
